@@ -1,0 +1,9 @@
+hi:=hello+25; (*addition *)
+hello++; (*increment*)
+a:=b+1;
+string:="Psi++ language";
+if(a:=10)
+{
+ break;
+}
+
